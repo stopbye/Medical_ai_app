@@ -1,0 +1,12 @@
+# Flask: Python Web框架，用于构建后端API服务。
+Flask==2.3.2
+# Flask-Cors: Flask扩展，用于处理跨域资源共享 (CORS) 请求，允许前端应用访问后端。
+Flask-Cors==3.0.10
+# Flask-SQLAlchemy: Flask扩展，用于集成SQLAlchemy ORM，简化数据库操作。
+Flask-SQLAlchemy==3.0.5
+# DashScope: 阿里云通义大模型的SDK，用于调用Qwen系列模型进行AI对话和工具调用。
+dashscope==1.14.0
+# qwen_agent: 通义千问智能体框架的Python SDK，提供了工具调用、Agent编排等高级功能。
+qwen_agent
+# pandas: 一个强大的数据分析和处理库，在AmapWeather工具中用于处理城市编码数据。
+pandas 
